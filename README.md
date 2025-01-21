@@ -1,5 +1,5 @@
 ## Trae Rules 👋
-Trae Rules to customize AI behavior, streamline the development and tailor code generation, suggestions and queries to your framework and language.
+[Trae Rules](https://traerules.net) to customize AI behavior, streamline the development and tailor code generation, suggestions and queries to your framework and language.
 
 <!--
 **traerules/traerules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
